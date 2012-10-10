@@ -3,10 +3,8 @@ AlfredEver
 
 Evernote Alfred Extention.
 
-applescript		 : AlfredEver applescript data.
-alfredextension  : AlfredEver.alfredextension data.
 
 
-• Change log
+change log
 
-2012.10.10 - v1.0.0 upload
+- 2012.10.10 : v1.0.0 upload
